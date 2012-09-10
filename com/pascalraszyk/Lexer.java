@@ -79,7 +79,7 @@ public class Lexer {
 			}
 			else if (l.contains(this.CMAIN)){
 				// short main method - recreate!
-				this.compiledFile.add(l.replace("void main", "public static void main("));
+				this.compiledFile.add(l.replace("void main", "public static void main"));
 			}
 			else if (l.contains(this.CPRINT))
 			{

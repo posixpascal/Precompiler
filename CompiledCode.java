@@ -1,5 +1,5 @@
 /*
- - Written in PRScript - Compiled to: Java
+ - Written in PRScript - Compiled to: Java :)
 */
 import java.io;
 

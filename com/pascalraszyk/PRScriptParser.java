@@ -1,3 +1,10 @@
+/*
+	MEH! THE HEART OF MY SCRIPT.
+	--
+	Extend this as you wish :)
+
+*/
+
 package com.pascalraszyk;
 
 import java.util.HashMap;

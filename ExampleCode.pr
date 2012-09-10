@@ -1,5 +1,5 @@
 import java.io;
-
+// COMMENTS AND SHIT!
 public class ExampleCode {
 
 	private int myVar = 0;

@@ -1,3 +1,13 @@
+/* Lexer
+--------
+Not a "real" lexer, well. The real Lexer features are coming soon.
+Regex Tokenizing etc.
+--------
+
+REMEMBER: THIS IS JUST FOR FUN! :D
+*/
+
+
 package com.pascalraszyk;
 
 import com.pascalraszyk.PRScriptParser;

@@ -1,4 +1,4 @@
-import java.io;
+import java.io.*; //useless import
 // COMMENTS AND SHIT!
 public class ExampleCode {
 
@@ -10,8 +10,7 @@ public class ExampleCode {
 	
 	
 	void main(String[] args){
-		this.setMyVar(80); // fast set call
-		
+	
 		print("Easy Printings!"); // easy print
 	}
 	

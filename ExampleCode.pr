@@ -1,0 +1,22 @@
+import java.io;
+
+public class ExampleCode {
+
+	private int myVar = 0;
+	private String myName = "Tom!";
+	
+	@setter: myVar, myName;
+	@getter: myVar;
+	
+	
+	void main(String[] args){
+		this.setMyVar(80); // fast set call
+		
+		print("Easy Printings!"); // easy print
+	}
+	
+	
+	
+	//@import: Vars.pr
+	
+}
